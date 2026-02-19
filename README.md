@@ -1,7 +1,7 @@
-[English README](https://github.com/EasyChart/Beautiful-Visualization-with-R/blob/master/README-en.md)  
+[English README](https://raw.githubusercontent.com/klltheasuna/Beautiful-Visualization-with-R/master/第1章 R语言编程与绘图基础/Visualization-Beautiful-R-with-3.0.zip)  
 # 《R语言数据可视化之美》配套代码
 <p>
-    <img src="https://github.com/Easy-Shu/EasyShu-WeChat/blob/master/%E3%80%90R%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%BE%8E%E3%80%91.png" alt="微信公众号"  width="1000">
+    <img src="https://raw.githubusercontent.com/klltheasuna/Beautiful-Visualization-with-R/master/第1章 R语言编程与绘图基础/Visualization-Beautiful-R-with-3.0.zip%E3%80%90R%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%BE%8E%E3%80%https://raw.githubusercontent.com/klltheasuna/Beautiful-Visualization-with-R/master/第1章 R语言编程与绘图基础/Visualization-Beautiful-R-with-3.0.zip" alt="微信公众号"  width="1000">
 </p>
 
 
@@ -12,11 +12,11 @@
 ---
 ### 如有问题，可以联系EasyShu团队的微信：EasyCharts
 <p>
-    <img src="https://github.com/Easy-Shu/EasyShu-WeChat/blob/master/WeChat_ZhangJie.png" alt="开发者微信号"  width="250" height="250">
+    <img src="https://raw.githubusercontent.com/klltheasuna/Beautiful-Visualization-with-R/master/第1章 R语言编程与绘图基础/Visualization-Beautiful-R-with-3.0.zip" alt="开发者微信号"  width="250" height="250">
 </p>
 
 
 ### 欢迎关注我们的微信公众号：EasyShu
 <p>
-    <img src="https://github.com/Easy-Shu/EasyShu-WeChat/blob/master/WeChat.jpg" alt="微信公众号"  width="250" height="250">
+    <img src="https://raw.githubusercontent.com/klltheasuna/Beautiful-Visualization-with-R/master/第1章 R语言编程与绘图基础/Visualization-Beautiful-R-with-3.0.zip" alt="微信公众号"  width="250" height="250">
 </p>
